@@ -1,0 +1,12 @@
+# Input graph: DocKiril/graph.gr.bin
+# OD-pairs: DocKiril/od.csv
+# Objective: SO
+# Function: custom_bpr
+# Shortest-path algo: ch
+# Period of analysis: 1h
+# Sampling intervals: [1@1]
+# Preprocessing time: 0ms
+iteration,sampling_interval,customization_time,query_time,line_search_time,total_time,avg_change,max_change,obj_function_value,total_travel_cost,checksum
+1,1,107,366,0,473,nan,nan,4.84904e+10,4.84904e+10,1328178855
+2,1,87,396,2,485,0.036985,1.55654,3.49034e+10,3.49034e+10,1353832060
+3,1,78,371,1,450,0.00961064,0.33002,1.52864e+10,1.52864e+10,1357423170
